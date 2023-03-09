@@ -1,16 +1,17 @@
 div {
-  background-color: red;
-  font-size: 32px;
-  alight: center;
-  text-transform: bold;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
 }
 
 p{
-  background-color: green;
-  color: white;
-  font-size: 18 px;
+    background-color: green;
+    color: white;
+    font-size: 18px;
 }
 button {
-  background-color: orange;
-  font-size: 18px
+    background-color: orange;
+    font-size: 18px
 }
